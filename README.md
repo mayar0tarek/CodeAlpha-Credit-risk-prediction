@@ -1,4 +1,4 @@
-# CodeAlpha-Credit-risk-prediction
+# Credit-risk-prediction
 
 **Project Description:**
 This project focuses on credit risk prediction using historical financial data to assess the creditworthiness of individuals. The objective is to develop predictive models that aid in determining the likelihood of loan default, thereby assisting lenders and financial institutions in making informed decisions.
